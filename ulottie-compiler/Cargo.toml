@@ -1,0 +1,5 @@
+[package]
+name = "ulottie-compiler"
+version = "0.0.1"
+authors = ["Hyeseong Kim <tim@daangn.com>"]
+edition = "2021"
